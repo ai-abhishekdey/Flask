@@ -14,12 +14,6 @@ pip3 install flask
 
 ```
 
-## Pre-requisite:
-
-
-* Mysql Database
-
-
 ## Running the app:
 
 
